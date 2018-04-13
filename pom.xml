@@ -11,6 +11,10 @@
 		<version>1.5.10.RELEASE</version>
 	</parent>
 
+	<properties>
+		<java.version>1.8</java.version>
+	</properties>
+
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
